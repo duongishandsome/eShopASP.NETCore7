@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "EShopSolutionDb": "Server=DESKTOP-NMNFB99\\SQLEXPRESS;Database=eShopSolution;Trusted_Connection=SSPI;Encrypt=false;TrustServerCertificate=true"
+  }
+}
